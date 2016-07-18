@@ -1,11 +1,14 @@
-[{
-  "name": "Summer",
-  "desc": "Summer in the city",
-  "path": "/wallpapers/summer.jpg",
-  "thumb": "/wallpapers/summer_thumb.jpeg"
-}, {
-  "name": "Croc",
-  "desc": "Crocodile",
-  "path": "/wallpapers/croc.jpg",
-  "thumb": "/wallpapers/croc_thumb.jpeg"
-}]
+{
+  "basePath": "http://gettab1.site/wp/",
+  "list": [{
+    "name": "Summer",
+    "desc": "Summer in the city",
+    "path": "/wallpapers/summer.jpg",
+    "thumb": "/wallpapers/summer_thumb.jpeg"
+  }, {
+    "name": "Croc",
+    "desc": "Crocodile",
+    "path": "/wallpapers/croc.jpg",
+    "thumb": "/wallpapers/croc_thumb.jpeg"
+  }]
+}
