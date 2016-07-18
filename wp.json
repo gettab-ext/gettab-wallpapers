@@ -3,12 +3,12 @@
   "list": [{
     "name": "Summer",
     "desc": "Summer in the city",
-    "path": "/wallpapers/summer.jpg",
-    "thumb": "/wallpapers/summer_thumb.jpeg"
+    "path": "summer.jpg",
+    "thumb": "summer_thumb.jpeg"
   }, {
     "name": "Croc",
     "desc": "Crocodile",
-    "path": "/wallpapers/croc.jpg",
-    "thumb": "/wallpapers/croc_thumb.jpeg"
+    "path": "croc.jpg",
+    "thumb": "croc_thumb.jpeg"
   }]
 }
